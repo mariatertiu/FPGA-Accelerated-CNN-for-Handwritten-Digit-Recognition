@@ -24,7 +24,7 @@ The complete system includes:
 # System Architecture
 
 <p align="center">
-<img src="images/system_architecture.png" width="900">
+<img src="images/system_arhitecture.png" width="900">
 </p>
 
 The overall workflow consists of:
@@ -40,7 +40,7 @@ The overall workflow consists of:
 # Software Application
 
 <p align="center">
-<img src="images/software_application.png" width="900">
+<img src="images/application.png" width="900">
 </p>
 
 The desktop application provides:
@@ -60,7 +60,7 @@ The desktop application provides:
 # CNN Architecture
 
 <p align="center">
-<img src="images/cnn_architecture.jpg" width="700">
+<img src="images/cnn_arhitecture.jpg" width="700">
 </p>
 
 The convolutional neural network was developed using TensorFlow/Keras and trained on the MNIST dataset together with custom handwritten digit images.
@@ -115,7 +115,7 @@ Mixed precision significantly improved the classification accuracy compared to u
 # Experimental Results
 
 <p align="center">
-<img src="images/results.png" width="750">
+<img src="images/result.png" width="750">
 </p>
 
 The project evaluates:
